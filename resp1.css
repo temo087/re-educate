@@ -1,0 +1,120 @@
+@media(width > 767px)
+{
+    main{
+        width: 767px;
+        height: 2000px;
+        padding-left: 175px;
+
+    }
+    .img1{
+        width: 115px;
+        height: 115px;
+    }
+    .head{
+        width: 820px;
+        height: 303px;
+        margin-left: -180px;
+    }
+    .left{
+        width: 410px;
+        height: 320px;
+        gap: 20px;
+        padding-right: 16px;
+    }
+
+    .right{
+        width: 410px;
+        height: 320px;
+        gap: 20px;
+        padding-left: 16px;
+    }
+    .middle2{
+        width: 457px;
+        height: 262px;
+    }
+    .text1{
+        font-size: 48px;
+        width: 390px;
+        padding-top: 72px;
+    }
+    .text2{
+        font-size: 16px;
+        width: 457px;
+        height: 52px;
+        margin-left: -30px;
+    }
+    .buttons{
+        display: flex;
+        padding-top: 0;
+        margin-left: -170px;
+        gap:-16px;
+    }
+    .btn2{
+        margin-top: 0;
+        margin-left: 16px;
+    
+    }
+    .animation1{
+        margin-left: -90px;
+    }
+    .images{
+        width: 689px;
+        height: 156px;
+        gap: 11px;
+        margin-left: -150px;
+    }
+    .img2{
+        width: 164px;
+        height: 164px;
+    }
+    .text3{
+        width: 573px;
+
+    }
+    h1{
+        font-size: 16px;
+        margin-left: -200px;
+    }
+    h2{
+        font-size: 40px;
+        width: 445px;
+        margin-left: -30px;
+    }
+    h3{
+        font-size: 16px;
+        width: 573px;
+        margin-left: -100px;
+    }
+    .last{
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        width: 1000PX;
+        background: #4D96A9;
+        background-image: url(assets/background.svg);
+        background-repeat: no-repeat;
+        background-position-y: center;
+        background-position-x: center;
+        margin-top: 167%;
+        margin-left: -250px;
+    }
+    .background{
+        margin-left: -90px;
+    }
+    .h5{
+        width: 457px;
+        font-size: 40px;
+        padding-left: 90px;
+    }
+    p{
+        padding: 32px 0 40px 0;
+    }
+    .btn3{
+        margin-left: 185px;
+        width: 193px;
+        height: 58px;
+        flex-shrink: 0;
+    }
+    
+}
